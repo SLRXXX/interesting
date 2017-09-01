@@ -1,1 +1,1 @@
-some interesting snippets
+# some interesting javascript snippets
